@@ -3,6 +3,7 @@
 ## Project setup
 ```
 npm install
+npm install bulma
 ```
 
 ### Compiles and hot-reloads for development
